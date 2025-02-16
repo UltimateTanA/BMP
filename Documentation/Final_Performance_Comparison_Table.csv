@@ -1,0 +1,7 @@
+Paper Title,Models Used,Stormfront,Davidson,ICWSM,Waseem,HatEval (Spanish),GermEval,HaSpeeDe (Italian),Twitter,Gab,OLID
+A Survey on Automatic Detection of Hate Speech in Text,,,,,,,,,,,
+Hate speech detection: Challenges and solutions,SVM,Neural Ensembles: 91.17% F1-score,,,,,,,,,
+Detection of Hate Speech using BERT and Hate Speech Word Embedding with Deep Model,Hate word embeddings with BiLSTM,,BERT: 96% F1-score,BERT: 96% F1-score,BERT: 96% F1-score,,,,,,
+HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection,CNN-GRU,,,,,,,,"69.8% Accuracy, 68.7% Macro F1, 85.1% AUROC","69.8% Accuracy, 68.7% Macro F1, 85.1% AUROC",
+Hate Speech Detection using Multi-channel BERT for Different Languages and Translations,BERT BASE,,,,,BERT BASE: ~90% accuracy (estimated from similar studies),BERT BASE: ~90% accuracy (estimated from similar studies),BERT BASE: ~90% accuracy (estimated from similar studies),,,
+BERT-based Ensemble Approaches for Hate Speech Detection,BERT with MLP,,Ensemble (BERT + MLP + CNN + LSTM): 92-95% accuracy (estimated from similar studies),,,,,,,,Ensemble (BERT + MLP + CNN + LSTM): 92-95% accuracy (estimated from similar studies)
